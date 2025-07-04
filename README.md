@@ -1,2 +1,2 @@
-# GdeGuz25.-github.io
+Github.io
 Pokemonbattle - автотест
